@@ -91,6 +91,4 @@ Use your Flipper as a full wireless or wired mouse.
 
 ## Author
 
-Created by [**0x78f1935**][1] aka **undeƒined**
-
-[1]: https://github.com/0x78f1935
+Created by **@0x78f1935** aka **undeƒined**
