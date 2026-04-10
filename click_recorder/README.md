@@ -89,6 +89,8 @@ Use your Flipper as a full wireless or wired mouse.
 | App not showing on Flipper | Verify the `.fap` file is at `apps/USB/mouse_click_recorder.fap` on the SD card |
 | Build errors | Run `ufbt update` to fetch the latest SDK |
 
-# Author
+## Author
 
-Created by [**0x78f1935**](https://github.com/0x78f1935) aka **undeƒined**
+Created by [**0x78f1935**][1] aka **undeƒined**
+
+[1]: https://github.com/0x78f1935
